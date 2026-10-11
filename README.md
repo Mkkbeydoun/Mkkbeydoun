@@ -1,21 +1,15 @@
-# Mohamed Beydoun
+# Hi, I'm Mohamed
 
-Backend developer, IT administrator, and game server specialist. Full portfolio at **[beyd.ca](https://beyd.ca/mohamed)**.
+Also known as Rustix. I'm a backend developer and IT administrator who builds tools for game servers and web hosting, and runs the hardware and backend behind them.
 
-## Open source
+Right now I'm building **Jabl**, an open source web hosting platform that gives every site its own container. It isn't public yet, but it's coming soon.
 
-- **[Pterodactyl SSO Extension](https://github.com/pterodactyl/SSO-Extension)**: added the GitHub, Google, GitLab, and Microsoft sign-in providers for Pterodactyl 2.0.
-- **[Nginx Webhost Egg](https://github.com/Rustix-Development/pterodactyl-nginx-egg)**: a Pterodactyl egg for PHP and static websites, with Composer, Git deployment, and optional WordPress.
-- **[Farming Simulator 25 Egg](https://github.com/Unreal-Network/FS25-Pterodactyl-Egg)**: a Pterodactyl egg and Docker image for FS25 dedicated servers on Linux through Wine, with a noVNC desktop.
+I also make [open source extensions for Pterodactyl 2.0](https://github.com/Rustix-Development), and I've contributed to Pterodactyl's [official extensions](https://github.com/pterodactyl/SSO-Extension) too.
 
-## Skills
+Day to day, I run [Rustix Development](https://www.rustix.xyz), I'm the Game Server Specialist at [Phoenix Protocol Roleplay](https://phoenixprotocolgta.com), and I'm a developer at [Unreal Studios](https://unrealstudios.ca), where we run the [Unreal Network](https://unrealcorp.net) game server community together.
 
-**Languages:** PHP · JavaScript · TypeScript · Python · Lua · C · C++ · C# · Java · SQL (MySQL/MariaDB) · Bash · PowerShell · Batch · HTML · CSS  
-**Also:** Node.js · React · FiveM (Lua, JS, .meta) · Arma SQF · JSON · YAML · TOML · XML · INI · Dockerfile · Nginx config  
-**Tools:** Git · GitLab CI/CD · GitHub Actions · Docker · Linux · Pterodactyl · Proxmox · Nginx · Cloudflare · Google Workspace
+Outside of game servers, I build websites and look after IT for businesses like [Komado Building Solutions](https://www.komado.ca) and [Allstar Collision & Auto Centre](https://allstarcollisioncentre.ca), and previously [Komodo Property Services](https://komodoservices.ca). That covers hosting, business email, Google Workspace, networking, and security systems, with remote and onsite support. I'm really into networking, especially Ubiquiti and UniFi.
 
-## Work
+I work with PHP, TypeScript, Python, Lua, C#, Bash and more, on Linux, Docker, Pterodactyl, and Proxmox.
 
-Developer & Game Server Specialist at [Phoenix Protocol Roleplay](https://phoenixprotocolgta.com) · Runs [Rustix Development](https://www.rustix.xyz) · Co-runs [Unreal Network](https://unrealcorp.net) with Unreal Studios
-
-[mohamed@rustix.xyz](mailto:mohamed@rustix.xyz)
+**Work or collaboration:** [mohamed@rustix.xyz](mailto:mohamed@rustix.xyz) · **Portfolio:** [beyd.ca](https://beyd.ca/mohamed)
