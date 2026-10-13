@@ -17,6 +17,6 @@ I work with PHP, TypeScript, Python, Lua, C#, Bash and more, on Linux, Docker, P
   <img src="https://raw.githubusercontent.com/Mkkbeydoun/Mkkbeydoun/stats/stats-light.svg" alt="Contributions, streak and profile views" />
 </picture>
 
-**Work or collaboration:** [mohamed@rustix.xyz](mailto:mohamed@rustix.xyz) · **Portfolio:** [beyd.ca](https://beyd.ca/mohamed)
+**Work or collaboration:** [mohamed@beyd.ca](mailto:mohamed@beyd.ca) · **Portfolio:** [beyd.ca](https://beyd.ca/mohamed)
 
 <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FMkkbeydoun" width="1" height="1" alt="" />
