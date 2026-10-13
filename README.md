@@ -8,7 +8,7 @@ I also make [open source extensions for Pterodactyl 2.0](https://github.com/Rust
 
 Day to day, I run [Rustix Development](https://www.rustix.xyz), I'm the Game Server Specialist at [Phoenix Protocol Roleplay](https://phoenixprotocolgta.com), and I'm a developer at [Unreal Studios](https://unrealstudios.ca), where we run the [Unreal Network](https://unrealcorp.net) game server community together.
 
-Outside of game servers, I build websites and look after IT for businesses like [Komado Building Solutions](https://www.komado.ca) and [Allstar Collision & Auto Centre](https://allstarcollisioncentre.ca), and previously [Komodo Property Services](https://komodoservices.ca). That covers hosting, business email, Google Workspace, networking, and security systems, with remote and onsite support. I'm really into networking, especially Ubiquiti and UniFi.
+Outside of game servers, I build websites and look after IT for businesses like [Komado Building Solutions](https://www.komado.ca) and [Allstar Collision & Auto Centre](https://allstarcollisioncentre.ca), and previously [Komodo Property Services](https://www.komodo-services.ca). That covers hosting, business email, Google Workspace, networking, and security systems, with remote and onsite support. I'm really into networking, especially Ubiquiti and UniFi.
 
 I work with PHP, TypeScript, Python, Lua, C#, Bash and more, on Linux, Docker, Pterodactyl, and Proxmox.
 
