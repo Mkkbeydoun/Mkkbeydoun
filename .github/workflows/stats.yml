@@ -35,5 +35,5 @@ jobs:
           cd out
           git init -q -b stats
           git add .
-          git -c user.name=Mkkbeydoun -c user.email=mohamed@rustix.xyz commit -q -m "Update stats"
+          git -c user.name=Mkkbeydoun -c user.email=mohamed@beyd.ca commit -q -m "Update stats"
           git push -q -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" stats
