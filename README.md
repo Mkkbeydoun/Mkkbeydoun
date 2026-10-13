@@ -1,5 +1,11 @@
 # Hi, I'm Mohamed
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mkkbeydoun&label=Profile%20views&color=3d7bff&style=flat" alt="Profile views" />
+  <a href="https://github.com/Mkkbeydoun?tab=followers"><img src="https://img.shields.io/github/followers/Mkkbeydoun?label=Followers&color=3d7bff&style=flat" alt="Followers" /></a>
+  <a href="https://beyd.ca/mohamed"><img src="https://img.shields.io/badge/Portfolio-beyd.ca-3d7bff?style=flat" alt="Portfolio: beyd.ca" /></a>
+</p>
+
 Also known as Rustix. I'm a backend developer and IT administrator who builds tools for game servers and web hosting, and runs the hardware and backend behind them.
 
 Right now I'm building **Jabl**, an open source web hosting platform that gives every site its own container. It isn't public yet, but it's coming soon.
