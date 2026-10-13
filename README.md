@@ -1,11 +1,5 @@
 # Hi, I'm Mohamed
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mkkbeydoun&label=Profile%20views&color=3d7bff&style=flat" alt="Profile views" />
-  <a href="https://github.com/Mkkbeydoun?tab=followers"><img src="https://img.shields.io/github/followers/Mkkbeydoun?label=Followers&color=3d7bff&style=flat" alt="Followers" /></a>
-  <a href="https://beyd.ca/mohamed"><img src="https://img.shields.io/badge/Portfolio-beyd.ca-3d7bff?style=flat" alt="Portfolio: beyd.ca" /></a>
-</p>
-
 Also known as Rustix. I'm a backend developer and IT administrator who builds tools for game servers and web hosting, and runs the hardware and backend behind them.
 
 Right now I'm building **Jabl**, an open source web hosting platform that gives every site its own container. It isn't public yet, but it's coming soon.
@@ -18,4 +12,11 @@ Outside of game servers, I build websites and look after IT for businesses like 
 
 I work with PHP, TypeScript, Python, Lua, C#, Bash and more, on Linux, Docker, Pterodactyl, and Proxmox.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mkkbeydoun&hide_border=true&background=00000000&ring=3d7bff&fire=3d7bff&currStreakLabel=3d7bff&stroke=30363d&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=Mkkbeydoun&hide_border=true&background=00000000&ring=3d7bff&fire=3d7bff&currStreakLabel=3d7bff&stroke=d0d7de&currStreakNum=1f2328&sideNums=1f2328&sideLabels=1f2328&dates=656d76" alt="GitHub contributions and streak" />
+</picture>
+
 **Work or collaboration:** [mohamed@rustix.xyz](mailto:mohamed@rustix.xyz) · **Portfolio:** [beyd.ca](https://beyd.ca/mohamed)
+
+<img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FMkkbeydoun&label=Profile%20views&labelColor=%23555555&countColor=%233d7bff&style=flat" alt="Profile views" />
