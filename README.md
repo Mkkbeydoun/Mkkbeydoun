@@ -13,10 +13,10 @@ Outside of game servers, I build websites and look after IT for businesses like 
 I work with PHP, TypeScript, Python, Lua, C#, Bash and more, on Linux, Docker, Pterodactyl, and Proxmox.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mkkbeydoun&hide_border=true&background=00000000&ring=3d7bff&fire=3d7bff&currStreakLabel=3d7bff&stroke=30363d&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" />
-  <img src="https://streak-stats.demolab.com?user=Mkkbeydoun&hide_border=true&background=00000000&ring=3d7bff&fire=3d7bff&currStreakLabel=3d7bff&stroke=d0d7de&currStreakNum=1f2328&sideNums=1f2328&sideLabels=1f2328&dates=656d76" alt="GitHub contributions and streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mkkbeydoun/Mkkbeydoun/stats/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Mkkbeydoun/Mkkbeydoun/stats/stats-light.svg" alt="Contributions, streak and profile views" />
 </picture>
 
 **Work or collaboration:** [mohamed@rustix.xyz](mailto:mohamed@rustix.xyz) · **Portfolio:** [beyd.ca](https://beyd.ca/mohamed)
 
-<img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FMkkbeydoun&label=Profile%20views&labelColor=%23555555&countColor=%233d7bff&style=flat" alt="Profile views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FMkkbeydoun" width="1" height="1" alt="" />
