@@ -1,0 +1,39 @@
+name: Stats card
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-card
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore counters
+        run: |
+          if git fetch -q --depth 1 origin stats; then
+            git show FETCH_HEAD:reads.txt > reads.txt || true
+            git show FETCH_HEAD:views.txt > views.txt || true
+          fi
+
+      - name: Build cards
+        run: python3 .github/stats/build.py out
+
+      - name: Publish to the stats branch
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          cd out
+          git init -q -b stats
+          git add .
+          git -c user.name=Mkkbeydoun -c user.email=mohamed@rustix.xyz commit -q -m "Update stats"
+          git push -q -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" stats
