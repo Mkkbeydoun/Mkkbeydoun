@@ -4,7 +4,7 @@ Also known as Rustix. I'm a backend developer and IT administrator who builds to
 
 Right now I'm building **Jabl**, an open source web hosting platform that gives every site its own container. It isn't public yet, but it's coming soon.
 
-I also make [open source extensions for Pterodactyl 2.0](https://github.com/Rustix-Development), and I've contributed to Pterodactyl's [official extensions](https://github.com/pterodactyl/SSO-Extension) too.
+I also make [open source extensions for Pterodactyl 2.0](https://github.com/orgs/Rustix-Development/repositories?q=pterodactyl), and I've contributed to Pterodactyl's [official extensions](https://github.com/pterodactyl/SSO-Extension) too.
 
 Day to day, I run [Rustix Development](https://www.rustix.xyz), I'm the Game Server Specialist at [Phoenix Protocol Roleplay](https://phoenixprotocolgta.com), and I'm a developer at [Unreal Studios](https://unrealstudios.ca), where we run the [Unreal Network](https://unrealcorp.net) game server community together.
 
