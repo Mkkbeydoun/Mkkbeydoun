@@ -18,6 +18,6 @@ Outside of game servers, I build websites and look after IT for businesses like 
   <img src="https://raw.githubusercontent.com/Mkkbeydoun/Mkkbeydoun/stats/stats-light.svg" alt="Contributions, streak and profile views" />
 </picture>
 
-**Work or collaboration:** [mohamed@beyd.ca](mailto:mohamed@beyd.ca) · **Portfolio:** [beyd.ca](https://beyd.ca/mohamed)
+**Work or collaboration:** [mohamed@beyd.ca](mailto:mohamed@beyd.ca) · **Portfolio:** [beyd.ca](https://beyd.ca/)
 
 <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FMkkbeydoun" width="1" height="1" alt="" />
