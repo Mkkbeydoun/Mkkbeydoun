@@ -6,7 +6,7 @@ Right now I'm building **Jabl**, an open source web hosting platform that gives 
 
 I also make [open source extensions for Pterodactyl 2.0](https://github.com/orgs/Rustix-Development/repositories?q=pterodactyl), and I've contributed to Pterodactyl's [official extensions](https://github.com/pterodactyl/SSO-Extension) too.
 
-Day to day, I run [Rustix Development](https://www.rustix.xyz), I'm the Game Server Specialist at [Phoenix Protocol Roleplay](https://phoenixprotocolgta.com), and at [Unreal Studios](https://unrealstudios.ca) I develop and administer the systems behind the [Unreal Network](https://unrealcorp.net) game server community, and I'm the studio's security analyst.
+Day to day, I run [Rustix Development](https://www.rustix.xyz), I'm the Game Server Specialist at [Phoenix Protocol Roleplay](https://phoenixprotocolgta.com), and I'm a developer, administrator and the security analyst at [Unreal Studios](https://unrealstudios.ca), where we run the [Unreal Network](https://unrealcorp.net) game server community together.
 
 Outside of game servers, I build websites and look after IT for businesses like [Komado Building Solutions](https://www.komado.ca) and [Allstar Collision & Auto Centre](https://allstarcollisioncentre.ca), and previously [Komodo Property Services](https://www.komodo-services.ca). That covers hosting, business email, Google Workspace, networking, and security systems, with remote and onsite support. I'm really into networking, especially Ubiquiti and UniFi.
 
